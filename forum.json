@@ -1,0 +1,56 @@
+{
+  "topics": [
+    "Coding",
+    "NFL",
+    "Movies",
+    "Music Production",
+    "Ping Pong"
+  ],
+  "Coding": {
+     "users": [
+       { "message": "Hello coders", "email": "eransom97@gmail.com", "time": "2017-01-09 23:03:20"},
+       { "message": "Hi", "email": "talia23@hotmail.com", "time": "2017-01-09 23:03:20"},
+       { "message": "Hey", "email": "mike88@gmail.com", "time": "2017-01-09 23:03:20"},
+       { "message": "Howdy", "email": "kim@aol.com", "time": "2017-01-09 23:03:20"},
+       { "message": "Holla", "email": "billy@yahoo.com", "time": "2017-01-09 23:03:20"}
+     ],
+     "topic": "Coding"
+    },
+   "NFL": {
+     "users": [
+       { "message": "Hello NFL fans!", "email": "eransom97@gmail.com", "time": "2017-01-09 23:03:20"},
+       { "message": "Hi!", "email": "talia23@hotmail.com", "time": "2017-01-09 23:03:20"},
+       { "message": "Hey!", "email": "mike88@gmail.com", "time": "2017-01-09 23:03:20"},
+       { "message": "Howdy!", "email": "kim@aol.com", "time": "2017-01-09 23:03:20"},
+       { "message": "Holla!", "email": "billy@yahoo.com", "time": "2017-01-09 23:03:20"}
+      ],
+      "topic": "NFL"
+    },
+  "Movies": {
+    "users": [
+      { "message": "Hello movie buffs!!", "email": "eransom97@gmail.com", "time": "2017-01-09 23:03:20"},
+      { "message": "Hi!!", "email": "talia23@hotmail.com", "time": "2017-01-09 23:03:20"},
+      { "message": "Hey!!", "email": "mike88@gmail.com", "time": "2017-01-09 23:03:20"},
+      { "message": "Howdy!!", "email": "kim@aol.com", "time": "2017-01-09 23:03:20"},
+      { "message": "Holla!!", "email": "billy@yahoo.com", "time": "2017-01-09 23:03:20"}
+     ],
+     "topic": "Movies"
+   },
+   "Music Production": {
+     "users": [
+       { "message": "Hello musicians!!!", "email": "eransom97@gmail.com", "time": "2017-01-09 23:03:20"},
+       { "message": "Hi!!!", "email": "talia23@hotmail.com", "time": "2017-01-09 23:03:20"},
+       { "message": "Hey!!!", "email": "mike88@gmail.com", "time": "2017-01-09 23:03:20"},
+       { "message": "Howdy!!!", "email": "kim@aol.com", "time": "2017-01-09 23:03:20"}
+      ],
+      "topic": "Music Production"
+    },
+    "Ping Pong": {
+      "users": [
+        { "message": "Hello ping pong fanatics$", "email": "eransom97@gmail.com", "time": "2017-01-09 23:03:20"},
+        { "message": "Hi$", "email": "talia23@hotmail.com", "time": "2017-01-09 23:03:20"},
+        { "message": "Hey$", "email": "mike88@gmail.com", "time": "2017-01-09 23:03:20"}
+       ],
+       "topic": "Ping Pong"
+     }
+ }

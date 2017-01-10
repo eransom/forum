@@ -1,0 +1,68 @@
+.App {
+
+}
+
+.App-header {
+  background-color: midnightblue;
+  height: 60px;
+  padding: 20px;
+  color: aliceblue;
+  text-align: center;
+}
+
+.App-intro {
+  font-size: large;
+  text-align: center;
+}
+
+.chatTopics {
+  list-style: none;
+  margin-bottom: 5em;
+  margin-right: 10px;
+
+}
+
+.display {
+  background-color: white;
+  border: 2px solid midnightblue;
+  height: 100%;
+  width: 300px;
+  margin-left: 170px;
+  margin-top: -70px
+}
+
+.logIn {
+  /*border: 2px solid midnightblue;*/
+
+  display: flex;
+  flex-direction: column;
+  float: left;
+  margin-left: 20px;
+  margin-top: -50px;
+  width: 110px;
+}
+
+.log {
+  font-size: 10px;
+  color: midnightblue;
+}
+
+.message {
+font-size: 8px;
+text-align: left;
+margin-left: 2px;
+}
+
+li {
+  display: inline-block;
+  padding: 10px;
+}
+
+ul {
+  text-align: center;
+}
+
+.textInput {
+  margin-bottom: 20px;
+  text-align: center;
+}
